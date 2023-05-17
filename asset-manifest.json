@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/WordAround/static/js/app.d8d28785.chunk.js",
-    "app.js.map": "/WordAround/static/js/app.d8d28785.chunk.js.map",
+    "app.js": "/WordAround/static/js/app.34313f10.chunk.js",
+    "app.js.map": "/WordAround/static/js/app.34313f10.chunk.js.map",
     "runtime~app.js": "/WordAround/static/js/runtime~app.cccfa19c.js",
     "runtime~app.js.map": "/WordAround/static/js/runtime~app.cccfa19c.js.map",
-    "static/js/2.c8a9d0af.chunk.js": "/WordAround/static/js/2.c8a9d0af.chunk.js",
-    "static/js/2.c8a9d0af.chunk.js.map": "/WordAround/static/js/2.c8a9d0af.chunk.js.map",
+    "static/js/2.de1eb4af.chunk.js": "/WordAround/static/js/2.de1eb4af.chunk.js",
+    "static/js/2.de1eb4af.chunk.js.map": "/WordAround/static/js/2.de1eb4af.chunk.js.map",
     "favicon-16.png": "/WordAround/favicon-16.png",
     "favicon-32.png": "/WordAround/favicon-32.png",
     "favicon.ico": "/WordAround/favicon.ico",
     "index.html": "/WordAround/index.html",
     "manifest.json": "/WordAround/manifest.json",
     "serve.json": "/WordAround/serve.json",
-    "static/js/2.c8a9d0af.chunk.js.LICENSE.txt": "/WordAround/static/js/2.c8a9d0af.chunk.js.LICENSE.txt",
+    "static/js/2.de1eb4af.chunk.js.LICENSE.txt": "/WordAround/static/js/2.de1eb4af.chunk.js.LICENSE.txt",
     "static/media/Backspace.mp3": "/WordAround/static/media/Backspace.6a8c3550.mp3",
     "static/media/Chime_Five.mp3": "/WordAround/static/media/Chime_Five.03fd24b7.mp3",
     "static/media/Chime_Four.mp3": "/WordAround/static/media/Chime_Four.9c685ff0.mp3",
@@ -33,7 +33,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.cccfa19c.js",
-    "static/js/2.c8a9d0af.chunk.js",
-    "static/js/app.d8d28785.chunk.js"
+    "static/js/2.de1eb4af.chunk.js",
+    "static/js/app.34313f10.chunk.js"
   ]
 }
